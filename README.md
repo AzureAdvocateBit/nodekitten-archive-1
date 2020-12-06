@@ -36,7 +36,7 @@ NODE_ENV="production"
 ```
 
 ### Deploy: Guide for Azure
-I've deployed the Dockerized NodeKitten to Azure using [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/).
+I've deployed the Dockerized NodeKitten to Azure using [Azure Container Instances](https://azure.microsoft.com/services/container-instances/?WT.mc_id=opensource-0000-ticyren).
 
 I always name the containers I use for this app `nodekitten` and have named the resource group `nodekittenResourceGroup`. If you'd like to use different names, you can change them where they're used.
 
